@@ -1,6 +1,6 @@
 @media only screen and (min-width: 200px) and (max-width: 576px) {
   .container {
-    padding: 0;
+    padding: 0px;
   }
   .nav-bar {
     flex-direction: column;
@@ -29,6 +29,7 @@
   }
   .sponsors .sponsor-logo {
     flex-direction: column;
+    align-items: center;
   }
   .sponsors .caption {
     text-align: center;
